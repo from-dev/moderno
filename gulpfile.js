@@ -34,8 +34,12 @@ gulp.task('script', function(){
 	return gulp.src([
 		'node_modules/slick-carousel/slick/slick.js',
 		'node_modules/magnific-popup/dist/jquery.magnific-popup.js',
+<<<<<<< HEAD
 		'node_modules/mixitup/dist/mixitup.js',
 		'node_modules/rateyo/src/jquery.rateyo.js',
+=======
+		'node_modules/mixitup/dist/mixitup.js'
+>>>>>>> 54a844c92c5077f944f8ce2577d1be4bf0c6323e
 		])
 	.pipe(concat('libs.min.js'))
 	.pipe(uglify())

@@ -192,7 +192,10 @@
 	&-author{
 		display: flex;
 		align-items: center;
+<<<<<<< HEAD
 		max-width: 245px;
+=======
+>>>>>>> 54a844c92c5077f944f8ce2577d1be4bf0c6323e
 		.avatar{
 			width: 30px;
 			height: 30px;
@@ -207,12 +210,16 @@
 		font-size: 14px;
 		font-weight: 500;			
 		}
+<<<<<<< HEAD
 	}
 	&-star{
 		span{
 			font-size: 12px;
 			color: $bg;
 		}
+=======
+
+>>>>>>> 54a844c92c5077f944f8ce2577d1be4bf0c6323e
 	}
 }
 .products__bottom-btn{	
@@ -234,6 +241,7 @@
 }
 
 
+<<<<<<< HEAD
 //end products
 //start product-slider
 .produkt-slider{
@@ -277,3 +285,9 @@
 
 
 //end product-slider
+=======
+
+
+
+//end products
+>>>>>>> 54a844c92c5077f944f8ce2577d1be4bf0c6323e
