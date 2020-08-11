@@ -1,9 +1,9 @@
 @font-face {
-	font-family: 'Roboto-Regular', sans-serif;
-	src: url('../fonts/Roboto-Regular.woff2') format('woff2'),
-		 url('../fonts/Roboto-Regular.woff') format('woff');
-	font-weight: 400;
-	font-display: swap;
+  font-family: 'Roboto-Regular', sans-serif;
+  src: url('../fonts/Roboto-Regular.woff2') format('woff2'),
+     url('../fonts/Roboto-Regular.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
 }
 
 @font-face {
@@ -36,22 +36,18 @@
 .icon-search:before {
   content: "\f002";
 }
-<<<<<<< HEAD
 .icon-envelope-o:before {
   content: "\f003";
 }
 .icon-user:before {
   content: "\f007";
 }
-=======
->>>>>>> e1a362a072062c99c9dbb45eee5786472d617e4f
 .icon-th-large:before {
   content: "\f009";
 }
 .icon-th-list:before {
   content: "\f00b";
 }
-<<<<<<< HEAD
 .icon-close:before {
   content: "\f00d";
 }
@@ -64,8 +60,6 @@
 .icon-lock:before {
   content: "\f023";
 }
-=======
->>>>>>> e1a362a072062c99c9dbb45eee5786472d617e4f
 .icon-map-marker:before {
   content: "\f041";
 }
@@ -87,7 +81,6 @@
 .icon-phone:before {
   content: "\f095";
 }
-<<<<<<< HEAD
 .icon-twitter:before {
   content: "\f099";
 }
@@ -112,15 +105,12 @@
 .icon-caret-down:before {
   content: "\f0d7";
 }
-=======
->>>>>>> e1a362a072062c99c9dbb45eee5786472d617e4f
 .icon-sort:before {
   content: "\f0dc";
 }
 .icon-unsorted:before {
   content: "\f0dc";
 }
-<<<<<<< HEAD
 .icon-linkedin:before {
   content: "\f0e1";
 }
@@ -130,8 +120,6 @@
 .icon-comments-o:before {
   content: "\f0e6";
 }
-=======
->>>>>>> e1a362a072062c99c9dbb45eee5786472d617e4f
 .icon-bolt:before {
   content: "\f0e7";
 }
@@ -141,7 +129,6 @@
 .icon-angle-right:before {
   content: "\f105";
 }
-<<<<<<< HEAD
 .icon-angle-down:before {
   content: "\f107";
 }
@@ -180,11 +167,4 @@
 }
 .icon-pinterest-p:before {
   content: "\f231";
-=======
-.icon-location-arrow:before {
-  content: "\f124";
-}
-.icon-sort-amount-desc:before {
-  content: "\f161";
->>>>>>> e1a362a072062c99c9dbb45eee5786472d617e4f
 }

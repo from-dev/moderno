@@ -25,6 +25,12 @@
 	}
 }
 @media (max-width: 840px){
+	.header__btn-menu{
+		z-index: 4;
+	}
+	.header__box{
+		z-index: 2;
+	}
 	.menu__list{
 		display: none;
 		background-color: $bg;
