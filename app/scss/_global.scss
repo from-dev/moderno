@@ -43,6 +43,19 @@ body{
 	flex: 0 0 auto;
 }
 
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	min-height: 100%;
+}
+.content {
+	flex: 1 0 auto;
+}
+.footer {
+	flex: 0 0 auto;
+}
+
 .container{
 	max-width: 1200px;
 	margin: 0 auto;
@@ -102,6 +115,7 @@ body{
 			color: #b0bec5;
 		}
 	}
+<<<<<<< HEAD
 }
 .angle-right{
 	position: relative;
@@ -114,4 +128,6 @@ body{
 		color: $green;
 		font-size: 14px;
 	}
+=======
+>>>>>>> e1a362a072062c99c9dbb45eee5786472d617e4f
 }

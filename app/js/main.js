@@ -34,6 +34,7 @@ $('.icon-th-large').on('click', function(){
     $('.icon-th-list').removeClass('active');
 });
 
+<<<<<<< HEAD
 
 
 $('.menu__btn').on('click', function(){
@@ -44,6 +45,8 @@ $('.header__btn-menu').on('click', function(){
     $('.header__box').toggleClass('active');
 });
 
+=======
+>>>>>>> e1a362a072062c99c9dbb45eee5786472d617e4f
 var mixer = mixitup('.products__inner-box');
 
 
